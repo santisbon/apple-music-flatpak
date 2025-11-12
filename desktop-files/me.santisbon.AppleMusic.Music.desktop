@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Apple Music
+Comment=Access Apple Music
+Icon=me.santisbon.AppleMusic.Music
+Exec=/app/bin/launch-music.sh music
+Categories=AudioVideo;Music;
+Terminal=false
+StartupNotify=true
+StartupWMClass=apple-music

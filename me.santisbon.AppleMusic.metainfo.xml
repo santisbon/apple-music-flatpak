@@ -32,10 +32,6 @@
       <image>https://raw.githubusercontent.com/santisbon/apple-music-flatpak/main/screenshot1.png</image>
       <caption>App pinned to Task Manager</caption>      
     </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/santisbon/apple-music-flatpak/main/screenshot2.png</image>
-      <caption>Desktop integration with proper category and icon</caption>
-    </screenshot>
   </screenshots>
 
   <url type="homepage">https://github.com/santisbon/apple-music-flatpak</url>

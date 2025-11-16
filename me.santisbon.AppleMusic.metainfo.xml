@@ -10,13 +10,13 @@
 
   <description>
     <p>
-      Provides native desktop integration for the Apple Music web service.
+      Provides native desktop integration for the Apple Music and Classical web services.
       It launches in a dedicated Chrome or Chromium window in App mode (no address bar)
       for a clean, native-like experience.
     </p>
     <p>Features:</p>
     <ul>
-      <li>Individual launcher</li>
+      <li>Individual launchers for Music and Classical apps</li>
       <li>Clean app-like interface with no browser UI elements</li>
       <li>Persistent login with support for Face ID by using a passkey</li>
       <li>Native desktop integration with proper icon and application category</li>
@@ -30,7 +30,11 @@
   <screenshots>
     <screenshot type="default">
       <image>https://raw.githubusercontent.com/santisbon/apple-music-flatpak/main/screenshot1.png</image>
-      <caption>App pinned to Task Manager</caption>      
+      <caption>Music app pinned to Task Manager</caption>      
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/santisbon/apple-music-flatpak/main/screenshot2.png</image>
+      <caption>Classical app pinned to Task Manager</caption>      
     </screenshot>
   </screenshots>
 

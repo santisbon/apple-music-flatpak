@@ -9,8 +9,12 @@ case "$SERVICE" in
         URL=https://music.apple.com
         WM_CLASS=apple-music
         ;;
+    classical)
+        URL=https://classical.music.apple.com
+        WM_CLASS=apple-music-classical
+        ;;
     *)
-        echo "Usage: $0 {music}"
+        echo "Usage: $0 {music|classical}"
         exit 1
         ;;
 esac

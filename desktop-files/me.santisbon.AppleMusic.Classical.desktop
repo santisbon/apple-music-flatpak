@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Apple Music Classical
+Comment=Access Apple Music Classical
+Icon=me.santisbon.AppleMusic.Classical
+Exec=/app/bin/launch-music.sh classical
+Categories=AudioVideo;Music;
+Terminal=false
+StartupNotify=true
+StartupWMClass=apple-music-classical

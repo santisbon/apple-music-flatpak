@@ -23,7 +23,7 @@
     </ul>
     <p>
       Note: This is an unofficial third-party application not affiliated with Apple Inc.
-      Apple Music is a trademark of Apple Inc. Icons by The Cross-Platform Organization (https://github.com/cross-platform) under GNU GPL v3.
+      Apple Music is a trademark of Apple Inc. Icons by The Cross-Platform Organization (https://github.com/cross-platform) and Apple.
     </p>
   </description>
 
@@ -44,6 +44,15 @@
   </content_rating>
 
   <releases>
+    <release version="1.1.0" date="2025-11-16">
+      <description>
+        <p>New feature:</p>
+        <ul>
+          <li>Add Apple Music Classical app</li>
+          <li>Independent icons foe each app (Music and Classical)</li>
+        </ul>
+      </description>
+    </release>
     <release version="1.0.0" date="2025-11-12">
       <description>
         <p>Initial release</p>
@@ -56,6 +65,7 @@
   </releases>
 
   <launchable type="desktop-id">me.santisbon.AppleMusic.Music.desktop</launchable>
+  <launchable type="desktop-id">me.santisbon.AppleMusic.Classical.desktop</launchable>
   
   <requires>
     <id>org.chromium.Chromium</id>
